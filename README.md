@@ -2,12 +2,11 @@
 
 Skilled frontend developer with one year experience in HTML, CSS and JAVASCRIPT.
 
-About me:
 -  I’m currently learning React and Tailwind to develop web applications.
 -  I'm working on Javascript challenges and projects.
 -  I’m looking to collaborate on any web application developments.
 
--  How to reach me
+-  You can reach me on
   iziegbeerazua@gmail.com
 
 <!---
